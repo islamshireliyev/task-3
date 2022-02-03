@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp1.Task-3(Sual-9)/1.0.0": {
+        "runtime": {
+          "ConsoleApp1.Task-3(Sual-9).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1.Task-3(Sual-9)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

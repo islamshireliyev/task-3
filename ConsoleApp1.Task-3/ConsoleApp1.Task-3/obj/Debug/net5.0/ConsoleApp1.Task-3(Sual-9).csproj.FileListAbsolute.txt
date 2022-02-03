@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\bin\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).exe
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\bin\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).deps.json
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\bin\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).runtimeconfig.json
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\bin\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).runtimeconfig.dev.json
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\bin\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).dll
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\bin\Debug\net5.0\ref\ConsoleApp1.Task-3(Sual-9).dll
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\bin\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).pdb
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\obj\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\obj\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\obj\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\obj\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).AssemblyInfo.cs
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\obj\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\obj\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).dll
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\obj\Debug\net5.0\ref\ConsoleApp1.Task-3(Sual-9).dll
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\obj\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).pdb
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.Task-3\obj\Debug\net5.0\ConsoleApp1.Task-3(Sual-9).genruntimeconfig.cache

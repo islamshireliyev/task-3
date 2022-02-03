@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\bin\Debug\net5.0\ConsoleApp1.task-3(sual-8).exe
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\bin\Debug\net5.0\ConsoleApp1.task-3(sual-8).deps.json
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\bin\Debug\net5.0\ConsoleApp1.task-3(sual-8).runtimeconfig.json
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\bin\Debug\net5.0\ConsoleApp1.task-3(sual-8).runtimeconfig.dev.json
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\bin\Debug\net5.0\ConsoleApp1.task-3(sual-8).dll
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\bin\Debug\net5.0\ref\ConsoleApp1.task-3(sual-8).dll
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\bin\Debug\net5.0\ConsoleApp1.task-3(sual-8).pdb
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\obj\Debug\net5.0\ConsoleApp1.task-3(sual-8).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\obj\Debug\net5.0\ConsoleApp1.task-3(sual-8).AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\obj\Debug\net5.0\ConsoleApp1.task-3(sual-8).AssemblyInfo.cs
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\obj\Debug\net5.0\ConsoleApp1.task-3(sual-8).csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\obj\Debug\net5.0\ConsoleApp1.task-3(sual-8).dll
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\obj\Debug\net5.0\ref\ConsoleApp1.task-3(sual-8).dll
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\obj\Debug\net5.0\ConsoleApp1.task-3(sual-8).pdb
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.task-3(sual-8)\obj\Debug\net5.0\ConsoleApp1.task-3(sual-8).genruntimeconfig.cache

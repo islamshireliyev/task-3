@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\bin\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).exe
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\bin\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).deps.json
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\bin\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).runtimeconfig.json
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\bin\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).runtimeconfig.dev.json
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\bin\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).dll
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\bin\Debug\net5.0\ref\ConsoleApp1.tasl-3(sual-1).dll
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\bin\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).pdb
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\obj\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\obj\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\obj\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\obj\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).AssemblyInfo.cs
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\obj\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\obj\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).dll
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\obj\Debug\net5.0\ref\ConsoleApp1.tasl-3(sual-1).dll
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\obj\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).pdb
+C:\Users\Hp\Desktop\isi\task-3\ConsoleApp1.Task-3\ConsoleApp1.tasl-3(sual-1)\obj\Debug\net5.0\ConsoleApp1.tasl-3(sual-1).genruntimeconfig.cache

@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed3ba742-892a-4a2c-84ea-51f91feea8d2": {
+      "ProjectGuid": "ed3ba742-892a-4a2c-84ea-51f91feea8d2",
+      "DisplayName": "ConsoleApp1.Task-3(Sual-9)",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0275913f-7576-4f76-a509-3b9fc48f19d4": {
+      "ProjectGuid": "0275913f-7576-4f76-a509-3b9fc48f19d4",
+      "DisplayName": "ConsoleApp1.tasl-3(sual-1)",
+      "ColorIndex": 1
+    },
+    "150e65fb-a068-4f59-aec0-b717cc5129cc": {
+      "ProjectGuid": "150e65fb-a068-4f59-aec0-b717cc5129cc",
+      "DisplayName": "ConsoleApp1.task-3(sual-2)",
+      "ColorIndex": 2
+    },
+    "d76b2915-de22-4e69-8d2a-726367da9640": {
+      "ProjectGuid": "d76b2915-de22-4e69-8d2a-726367da9640",
+      "DisplayName": "ConsoleApp1.task-3(sual-3)",
+      "ColorIndex": 3
+    },
+    "adf7b3f2-dfd6-4938-b668-f83da6b182a6": {
+      "ProjectGuid": "adf7b3f2-dfd6-4938-b668-f83da6b182a6",
+      "DisplayName": "ConsoleApp1.task-3(sual-4)",
+      "ColorIndex": 4
+    },
+    "687429fb-aab9-4f43-8722-c67b6717c6cb": {
+      "ProjectGuid": "687429fb-aab9-4f43-8722-c67b6717c6cb",
+      "DisplayName": "ConsoleApp1.task-3(sual-5)",
+      "ColorIndex": 5
+    },
+    "ab409aa1-8f63-4b3e-88f6-9fa9c9776244": {
+      "ProjectGuid": "ab409aa1-8f63-4b3e-88f6-9fa9c9776244",
+      "DisplayName": "ConsoleApp1.task-3(sual-6)",
+      "ColorIndex": 6
+    },
+    "f90151b8-4941-48ba-a00a-c063f0e66b08": {
+      "ProjectGuid": "f90151b8-4941-48ba-a00a-c063f0e66b08",
+      "DisplayName": "ConsoleApp1.task-3(sual-7)",
+      "ColorIndex": 7
+    },
+    "91a2f166-56e9-415c-a4f9-b8bafd4affcd": {
+      "ProjectGuid": "91a2f166-56e9-415c-a4f9-b8bafd4affcd",
+      "DisplayName": "ConsoleApp1.task-3(sual-8)",
+      "ColorIndex": 8
+    },
+    "69f1e490-fd84-416c-b1cf-68fc3f5bef51": {
+      "ProjectGuid": "69f1e490-fd84-416c-b1cf-68fc3f5bef51",
+      "DisplayName": "ConsoleApp1.task-3(sual-10)",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
